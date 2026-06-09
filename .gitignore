@@ -1,0 +1,32 @@
+# Logs
+*.log
+logs/
+
+# Banco H2
+*.mv.db
+*.trace.db
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+
+# Variáveis de ambiente
+.env
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Eclipse / STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
