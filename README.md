@@ -45,7 +45,7 @@ O diagrama abaixo ilustra como os componentes se comunicam, desde a requisição
 
 ![alt text](diagram.png)
 
-ivisão das Camadas
+Divisão das Camadas
 Delivery Assets / Frontend (Camada de Apresentação): Gerencia o fluxo de trabalho e serve os ativos estáticos que interagem com o ecossistema.
 
 Camada de Controladores (API REST): Porta de entrada da aplicação. Recebe as requisições HTTP, valida os dados utilizando DTOs (Data Transfer Objects) e direciona as chamadas para as regras de negócio corretas.
